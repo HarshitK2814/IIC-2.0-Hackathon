@@ -4,10 +4,9 @@
 
 🏆 **Building Tomorrow's Cities Today**
 
-[![ESP32](https://img.shields.io/badge/ESP32-DevKit-red.svg)](https://www.espressif.com/en/products/socs/esp32)
-[![Blynk](https://img.shields.io/badge/Blynk-IoT%20Platform-blue.svg)](https://blynk.cloud/)
-[![Arduino](https://img.shields.io/badge/Arduino-IDE-green.svg)](https://www.arduino.cc/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![ESP32](https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/ESP32_img.jpg)
+[![Smart Dustbin](https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/Smart_Dustbin_img.jpg)
+[![Dashboard](https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/Dashboard%20Image.png)
 
 </div>
 
