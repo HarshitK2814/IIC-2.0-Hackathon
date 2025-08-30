@@ -4,9 +4,8 @@
 
 🏆 **Building Tomorrow's Cities Today**
 
-[![ESP32](https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/ESP32_img.jpg)
-[![Smart Dustbin](https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/Smart_Dustbin_img.jpg)
-[![Dashboard](https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/Dashboard%20Image.png)
+<img src="https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/Smart_Dustbin_img.jpg" alt="Smart Bin System" width="500">
+</div>
 
 </div>
 
@@ -110,6 +109,11 @@ Traditional System          →    Smart Bin System
 - 🏢 **Enterprise Features** - Multi-user access and role-based permissions
 
 ## 🔧 Hardware Requirements
+
+<div align="center">
+<img src="https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/ESP32_img.jpg" alt="ESP32 DevKit V1" width="400">
+<br><em>ESP32 DevKit V1 - The heart of our IoT system</em>
+</div>
 
 ### 📦 Bill of Materials
 
@@ -331,6 +335,11 @@ Rotate();                  // Search for line when lost
 ## 📊 Dashboard Setup
 
 ### 🌐 Blynk Console Configuration
+
+<div align="center">
+<img src="https://github.com/HarshitK2814/IIC-2.0-Hackathon/blob/main/images/Dashboard%20Image.png" alt="Blynk Dashboard" width="700">
+<br><em>Live Blynk IoT Dashboard showing real-time monitoring data</em>
+</div>
 
 #### Step 1: Create Blynk Account
 
